@@ -32,42 +32,42 @@ The shebang, represented by `#!/bin/bash`, is the first line of a shell script. 
 
 ### Write a Shell Script which prints "I will complete #90DaysOfDevOps challenge"
 
-#!/bin/bash
+    #!/bin/bash
 
-echo "I will complete #90DaysOfDevOps challenge"
+    echo "I will complete #90DaysOfDevOps challenge"
 
 ### Write a Shell Script to take user input, input from arguments and print the variables.
 
-#!/bin/bash
+    #!/bin/bash
 
-echo "Enter your name:"
+    echo "Enter your name:"
 
-read name
-
-echo "Hello $name, you entered $1 as your first argument and $2 as your second argument."
+    read name
+    
+    echo "Hello $name, you entered $1 as your first argument and $2 as your second argument."
 
 
 ### Write an Example of If else in Shell Scripting by comparing 2 numbers
 
-#!/bin/bash
+    #!/bin/bash
 
-echo "Enter two numbers:"
+    echo "Enter two numbers:"
 
-read num1 num2
+    read num1 num2
 
-if [ $num1 -gt $num2 ]
+    if [ $num1 -gt $num2 ]
 
-then
+    then
 
-echo "$num1 is greater than $num2"
+    echo "$num1 is greater than $num2"
 
-elif [ $num1 -eq $num2 ]
+    elif [ $num1 -eq $num2 ]
 
-then
+    then
 
     echo "$num1 is equal to $num2"
     
-else
+    else
 
     echo "$num1 is less than $num2"
 
