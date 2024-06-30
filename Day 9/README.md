@@ -129,7 +129,7 @@ git push -f origin feature
 
 ## References
 
-- [What Are the Best Git Branching Strategies](https://www.abtasty.com/blog/git-branching-strategies/) platform.
+- [What Are the Best Git Branching Strategies](https://www.abtasty.com/blog/git-branching-strategies/).
 - [Git Branching Strategies for a DevOps Project](https://www.youtube.com/watch?v=NzjK9beT_CY)
 - [Git Branching Workflow in Production](https://www.youtube.com/watch?v=7xhkEQS3dXw)
 - [Github and GitLab Branching Strategy](https://www.youtube.com/watch?v=KKByv7JyzOw)
