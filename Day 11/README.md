@@ -158,16 +158,14 @@ os.system("git push")
 
 Today’s tasks enhanced my understanding of Python and its applications in automation. I practiced basic Python concepts, file handling, and Git integration, which are essential skills for a DevOps engineer. Python's simplicity and powerful libraries make it a valuable tool for scripting and automating routine tasks in DevOps.
 
----
-
-**Happy Learning! 🚀**
-
-Roshan Sahani
-
----
-
 ### References:
 
 - [Python Official Documentation](https://docs.python.org/3/)
 - [GeeksforGeeks: Python Basics](https://www.geeksforgeeks.org/python-programming-language/)
 - [Automating Some Git Commands with Python](https://www.geeksforgeeks.org/automating-some-git-commands-with-python/)
+
+---
+
+**Happy Learning! 🚀**
+
+Roshan Sahani

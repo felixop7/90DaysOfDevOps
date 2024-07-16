@@ -152,6 +152,12 @@ print(f"Update Response: {response.json()}")
 
 Today's tasks enhanced my understanding of intermediate Python concepts essential for automation. I practiced defining and using functions and modules, handling errors gracefully, debugging scripts, and working with APIs. These skills are crucial for writing robust and efficient automation scripts in a DevOps environment.
 
+### References:
+
+- [Python Official Documentation](https://docs.python.org/3/)
+- [GeeksforGeeks: Python Functions](https://www.geeksforgeeks.org/functions-in-python/)
+- [Requests: HTTP for Humans](https://requests.readthedocs.io/en/latest/)
+
 ---
 
 **Happy Learning! 🚀**
@@ -159,9 +165,3 @@ Today's tasks enhanced my understanding of intermediate Python concepts essentia
 Roshan Sahani
 
 ---
-
-### References:
-
-- [Python Official Documentation](https://docs.python.org/3/)
-- [GeeksforGeeks: Python Functions](https://www.geeksforgeeks.org/functions-in-python/)
-- [Requests: HTTP for Humans](https://requests.readthedocs.io/en/latest/)

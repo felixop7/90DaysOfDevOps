@@ -1,4 +1,9 @@
-# Day 10 Task: Advance Git & GitHub for DevOps Engineers: Part-2
+# Day 10: Advance Git & GitHub for DevOps Engineers
+
+## Daily Log
+
+**Date:**
+June 28, 2024
 
 ## Git Stash
 

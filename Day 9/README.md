@@ -32,9 +32,9 @@ tools for removing or editing changes made in previous commits. These commands o
 
 ### Task 1: Git Branching and Revision Control
 
-### Step 1: Create and switch to the dev branch
-
 ```sh
+Step 1: Create and switch to the dev branch
+
 # Ensure you are on the master branch
 git checkout master
 
@@ -83,10 +83,11 @@ git reset --hard <commit-hash>
 git push -f origin dev
 ```
 
-##Task 2
-Step 1: Create additional branches and make changes
+### Task 2
 
 ```sh
+Step 1: Create additional branches and make changes
+
 # Ensure you are on the master branch
 git checkout master
 
@@ -122,7 +123,8 @@ git rebase master
 git push -f origin feature
 ```
 
-##Images for reference
+## Images for reference
+
 ![Branching](branch.png)
 ![Rebasing](rebase.png)
 ![Merging](merge.png)

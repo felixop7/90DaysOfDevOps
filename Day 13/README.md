@@ -154,6 +154,11 @@ print("YAML:\n", yaml_data)
 
 Today's tasks reinforced my understanding of how to work with JSON and YAML files using Python. These skills are essential for automating configuration management and data processing tasks in a DevOps environment. The ability to parse and manipulate various file formats allows for more flexible and efficient automation scripts.
 
+### References:
+
+- [Python Official Documentation](https://docs.python.org/3/)
+- [Python By Project](https://www.youtube.com/playlist?list=PLlfy9GnSVerSzFmQ8JqP9v0XHHOAeWbjo)
+
 ---
 
 **Happy Learning! 🚀**
@@ -161,8 +166,3 @@ Today's tasks reinforced my understanding of how to work with JSON and YAML file
 Roshan Sahani
 
 ---
-
-### References:
-
-- [Python Official Documentation](https://docs.python.org/3/)
-- [Python By Project](https://www.youtube.com/playlist?list=PLlfy9GnSVerSzFmQ8JqP9v0XHHOAeWbjo)
