@@ -99,6 +99,7 @@ Today's tasks provided a practical introduction to Docker commands essential for
 - [TutorialsPoint: Docker](https://www.tutorialspoint.com/docker/index.htm)
 - [Install Docker on AWS EC2](https://medium.com/@mehmetodabashi/how-to-install-docker-on-ec2-and-create-a-container-75ca88e342d2)
 - [Introduction to Containers](https://www.youtube.com/watch?v=7JZP345yVjw)
+- [Docker Tutorial on AWS EC2 as DevOps Engineer](https://www.youtube.com/watch?v=Tevxhn6Odc8)
 
 ---
 
